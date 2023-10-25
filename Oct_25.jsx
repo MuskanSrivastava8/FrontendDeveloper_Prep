@@ -1,0 +1,1 @@
+completed promise lecture by nameste js
