@@ -1,1 +1,1 @@
-completed promise lecture by nameste js
+Studied promise lecture by nameste js
