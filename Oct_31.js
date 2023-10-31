@@ -1,0 +1,1 @@
+Studied js from nameste js 
