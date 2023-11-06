@@ -1,1 +1,1 @@
-Studied nameste react video 6
+Studied nameste react video 7 and 8
