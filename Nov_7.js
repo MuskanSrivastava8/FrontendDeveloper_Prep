@@ -1,0 +1,1 @@
+Studied nameste react video 7, 8 and half 9
